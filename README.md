@@ -1,10 +1,10 @@
 # Lottery
 
-### Overview
+## Overview
 
 Decentralised Lottery picking project. This solidity project uses Keccak256 algorithm to randomly pick the winner of the lottery (Caution: The Keccak256 algorithm is used only for the sake of demonstration, not to use this algorithm to deploy a real lottery smart-contract on the Mainnet as this is not the correct algorithm to choose a random participant and hence, can be easily attacked by an attacker). The participants can enter the lottery by simply paying the entry fee at the address of smart contract.
 
-### Implementation
+## Implementation
 
 - Create an account in Metamask (Make sure to add some test ETH in your testnet account) - This account will be the manager account for the lottery
 - Compile and Deploy this smart contract on Injected Web3 Environment in Remix online IDE
