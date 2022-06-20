@@ -1,14 +1,13 @@
 # Lottery
 
-.fsfsffa
-## 
+Decentralised Lottery picking project. This solidity project uses Keccak256 algorithm to randomly pick the winner of the lottery (Caution: The Keccak256 algorithm is used only for the sake of demonstration, not to use this algorithm to deploy a real lottery smart-contract on the Mainnet as this is not the correct algorithm to choose a random participant and hence, can be easily attacked by an attacker). The participants can enter the lottery by simply paying the entry fee at the address of smart contract.
+
+### Implementations 
+
 
 ***
 
 ## Overview
-
-
-### Implementations 
 
 
 ### [Project Report](https://github.com/)
