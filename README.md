@@ -7,7 +7,7 @@ Decentralised Lottery picking project. This solidity project uses Keccak256 algo
 ## Implementation
 
 - Create an account in Metamask (Make sure to add some test ETH in your testnet account) - This account will be the manager account for the lottery
-- Compile and Deploy this smart contract on Injected Web3 Environment in Remix online IDE
+- Compile and Deploy this smart contract on Injected Web3 Environment in [Remix online IDE](https://remix.ethereum.org/)
 - Create atleast 3 more accounts on the same testnet in Metamask and add some test ETH (> 1 ETH) from any faucet
 - Transfer 1 ETH from each of the three accounts made in the previous step to the smart contract
 - Cross-check if the contract has received 3 ETH in total from the getBalance function in the deployed contract within Remix IDE
